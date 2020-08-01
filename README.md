@@ -1,6 +1,6 @@
 # Password-Modifier
 
-simple password modifier.
+### simple password modifier.
 
 Replaces the following:
 
@@ -12,4 +12,4 @@ Replaces the following:
 
 Then appends "q*s" to the end.
 
-Example: if the input is mypassword, the output is Myp@ssw.rdq*s
+> Example: if the input is mypassword, the output is Myp@ssw.rdq*s
